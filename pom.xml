@@ -20,12 +20,7 @@
             <name>releases</name>            
             <url>http://35.239.18.11:8081/repository/sample-releases/</url>
         </repository>
-	    <repository>
-            <id>deployment</id>
-	        <name>snapshots</name>            
-            <url>http://35.239.18.11:8081/repository/sample-snapshot/</url>
-        </repository>
- </distributionManagement>
+   </distributionManagement>
    <dependencies>
         <dependency>
             <groupId>junit</groupId>
